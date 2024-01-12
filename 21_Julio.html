@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNIDAD EDUCATIVA 21 DE JULIO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 0.5em;
+        }
+
+        section {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        body{
+            background-color: turquoise;
+        }
+        p{
+            font-family: Arial, Helvetica, sans-serif;
+            text-align:justify;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>UNIDAD EDUCATIVA 21 DE JULIO</h1>
+    </header>
+
+    <nav>
+        <a href="#seccion1">Himno</a> |
+        <a href="#seccion2">Historia</a> |
+        <a href="#seccion3">Primeros Rectores</a>
+    </nav>
+   
+    <section id="seccion1">
+        <center><h1>HIMNO A LA UNIDAD EDUCATIVA 21 DE JULIO</h1></center>
+        <center><img border="0" src="HIMNO1.jpg" height="500px"></center>
+    </section>
+
+    <section id="seccion2">
+        <center><h1>Historia</h1></center>
+        <p>
+            En el cantón Yaguachi la falta de un centro de instrucción secundaria, obligaba a la
+            mayoría de los habitantes de este pueblo, a limitar su preparación técnica y académica; en
+            aquei tiempo solo las familias que contaban con suficientes recursos económicos
+            enviaban a sus hijos a estudiar a otras ciudades del país; hasta que un buen día el viernes
+            <b>20 de marzo de 1953</b>, cuando Yaguachi se preparaba a celebrar sus 70 años de
+            cantonización, se crea el primer centro de estudios secundarios; esta fue otra obra
+            importante del entonces <b>Presidente de Consejo, Sr. Alfonso Patiño Icaza;</b> quien 
+            escuchando el clamor de muchos padres de familia, ejecuto este proyecto, secundado por 
+            su cuerpo edilicio, fue establecido y sostenido con recursos arrancados del presupuesto 
+            ordinario municipal, luego se crea un impuesto mediante decreto de Consejo Nacional de 
+            Economía, con rentas especiales, emanadas del cobro de 10 diez centavos de sucre, por
+            cada bebida gaseosa que se introducia al cantón
+        </p>
+        <p>
+        En aquel tiempo el profesor Manuel Wolf Herrera, Vicepresidente del Consejo, 
+        recomienda que en honor a la fecha de cantonización, dicha institución lleve el nombre 
+        de <b>Colegio Municipal Técnico en Comercio y Administración 21 de Julio.</b>
+        </p>
+        <center><img src="foto1.jpg" height="220px"></center>
+        <p>
+            Realizándose asi <b>el 20 de abril</b> el inició del periodo de matrículas, en la cual se 
+            inscribieron legalmente 61 alumnos, inmediatamente el Consejo Cantonal, procede a 
+            nombrar a los maestros del plantel: <b>Prof. Jorge Delgado Galarza (RECTOR);</b>
+            <p style="text-align: center;">Prof. Manuel Wolf Herrera (VICERRECTOR);</p>
+            <p style="text-align: center;">Poeta Cesar Maquilón Orellana,</p>
+            <p style="text-align: center;">Prof. Angela Franco Martillo,</p>
+            <p style="text-align: center;">Prof. Maura Vera de Maquilón,</p>
+            <p style="text-align: center;">Prof. Luis Álvarez,</p>
+            <p style="text-align: center;">Prof. Angela France Martillo,</p>
+            <p style="text-align: center;">Prof. Ángel Veliz Mendoza,</p>
+            <p style="text-align: center;">Srta. Eva Franco Garcia (Secretaria-Colectora).</p>
+        <p> <b>El 22 de mayo de 1953,</b> se realiza el acto de apertura del año lectivo, en los patios de la
+            escuela Municipal de niñas Rosaura Maridueña, en presencia del Subdirector Regional
+            de Educación, Sr. Iván Rodríguez, quien inaugura oficialmente este plantel.</p>
+        <p> <b>El 3 de junio de 1953</b> se obtiene la autorización legal para el funcionamiento, 
+            impartiendo clases en dos jornadas, (mañana y tarde).</p>
+        <p> Por tres años funciono junto a la Iglesia de San Jacinto, donde ahora está ubicada la 
+            Escuela Francisco Xavier de Garaycoa (en local de madera donde inicialmente funciono 
+            la escuela Antonio José de Sucre), gracias a la colaboración del padre Manuel Paz Ruiz.</p>
+        <p> En 1956 paso a la cede de la Sociedad de Comerciantes, ubicados en las calles Malecón 
+            y Garaycos; en 1962 ocupo el antiguo teatro Carlos Alberto Flores, de las calles Sucre y 
+            Garaycoa (Detrás de la escuela Antonio José de Sucre).</p>
+        <center><img src="foto2.jpg" height="220px"></center>
+        <p>
+            En 1968, los alumnos de este centro educativo, comandados por el rector Profesor 
+            Francisco Morin Márquez, se apoderaron de los actuales terrenos que ocupa el Plantel 
+            luego se consigue que el Prefecto Provincial del Guayas, St. Bolívar San Lucas, 
+            construya un pabellón con 6 aulas, el cual toman posesión al año siguiente, siendo rector 
+            el Ledo: Eduardo Granado Montalvo, quien lucha para que cata institución educativa sea 
+            equipada con un pabellón de dos plantas, y material pedagógico necesario para la 
+            preparación del estudiante.
+        </p>
+        <center><img src="foto3.jpg" height="170px"></center>
+        <p>
+            Actualmente el colegio ocupa seis hectáreas de los antiguos predios de la hacienda San 
+            Bernardo, en las cuales se han construido 8 pabellones, Salón de Actos, Salón de 
+            Profesores, Un amplio patio, laboratorios de computación, fisica, química, biología, 
+            biblioteca, posee una hermosa cancha deportiva y amplios espacios verdes para 
+            practicas agropecuarias donde actualmente es el complejo turístico.
+        </p>
+        <center><img src="foto4.jpg" height="220px"></center>
+    </section>
+
+    <section id="seccion3">
+        <center><h1>Rectores cuando fue nombrado colegio municipal</h1></center>
+    </section>
+        <p style="text-align: center;">Prof. Jorge Delgado Galarza (53-54-55)</p>
+        <p style="text-align: center;">Prof. Julio Cesar Quiroz Chevasco (55-56)
+        <p style="text-align: center;">Prof. Carlos Ordoñez (56-57)
+        <p style="text-align: center;">Prof. Jaime Montesdeoca V. (56-57)
+        <p style="text-align: center;">Prof. Rafael Ojeda Granda Prof. Angel Polibio Jaramillo (57-58-59)
+        <p style="text-align: center;">Prof. Ángel Polibio Jaramillo (59-60)
+        <p style="text-align: center;">Prof. Pablo Zambrano Saa (60-61)
+        <p style="text-align: center;">Prof. Manuel Wolf Herrera (61-62)</p>
+    
+    
+        <p>© 2024 Frenco Barberan Edison</p>
+        <p>3"B" Informática</p>
+    
+</body>
+</html>
